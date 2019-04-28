@@ -34,6 +34,8 @@ Successfully enabled remote desktop service on a targeted machine:
 
 # My Windows machine do not have Python installed, what should I do?
 
+- Download an exe from the release section of the Github along with PowerShell files available [here](https://github.com/Viralmaniar/PeekABoo/releases) or do it on your own using PyInstaller after reviewing the source code.
+
 - Compile `peekaboo.py` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
 
 - PyInstaller is available on PyPI. You can install it through pip:
