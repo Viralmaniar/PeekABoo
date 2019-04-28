@@ -1,6 +1,8 @@
 # PeekABoo
 PeekABoo tool can be used during internal penetration testing when a user needs to enable Remote Desktop on the targeted machine. It uses PowerShell remoting to perform this task. 
 
+The tool only works if WinRM is enabled. Since Windows Server 2012 WinRM is enabled by default on all Windows server operating systems, but not on client operating systems.
+
 Note: Remote desktop is disabled by default on all Windows operating systems. User would require local administrator password or administrator privileges on the server to enable RDP on a targeted machine.
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
