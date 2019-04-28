@@ -7,14 +7,17 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 
 # Screenshots
 
-Target machine on an internal network has RDP disabled:
+Targeted machine on an internal network has RDP disabled:
 
 ![image](https://user-images.githubusercontent.com/3501170/56864171-968fdc00-6a02-11e9-94cd-3baff007850b.png)
 
-Enabling remote desktop service on a targeted machine by pressing :
+Enabling remote desktop service on a targeted machine by pressing:
 
 ![image](https://user-images.githubusercontent.com/3501170/56864277-e0c58d00-6a03-11e9-81b4-0b2d1de715be.png)
 
+Successfully enabled remote desktop service on a targeted machine:
+
+![image](https://user-images.githubusercontent.com/3501170/56864731-2f295a80-6a09-11e9-8bf2-7bcef805b577.png)
 
 # How to install?
 <pre>
