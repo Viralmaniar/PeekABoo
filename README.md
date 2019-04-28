@@ -7,6 +7,7 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 
 # Screenshots
 
+
 # How to install?
 <pre>
 - git clone https://github.com/Viralmaniar/PeekABoo.git
