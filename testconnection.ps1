@@ -1,0 +1,1 @@
+Test-NetConnection -ComputerName MSEDGEWIN10 -Port 3389
