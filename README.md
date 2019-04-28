@@ -1,12 +1,19 @@
 # PeekABoo
 PeekABoo tool can be used during internal penetration testing when a user needs to enable Remote Desktop on the targeted machine. It uses PowerShell remoting to perform this task. 
 
-Note: Remote desktop is disabled by default on all Windows operating systems. 
+Note: Remote desktop is disabled by default on all Windows operating systems. User would require local administrator password or administrator privileges on the server to enable RDP on a targeted machine.
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
 # Screenshots
 
+Target machine on an internal network has RDP disabled:
+
+![image](https://user-images.githubusercontent.com/3501170/56864171-968fdc00-6a02-11e9-94cd-3baff007850b.png)
+
+Enabling remote desktop service on a targeted machine by pressing :
+
+![image](https://user-images.githubusercontent.com/3501170/56864277-e0c58d00-6a03-11e9-81b4-0b2d1de715be.png)
 
 
 # How to install?
@@ -18,9 +25,19 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 
 # How do I use this?
 - Press 1: This will set the PowerShell to unrestricted mode.
-- Press 2: It enables the `Remote Desktop` on the remote machine.
+- Press 2: It enables the `Remote Desktop` on the remote machine and shows the RDP port (3389) status.
 - Press 3: It disables the `Remote Desktop` on the remote machine.
 - Press 4: To exit from the program.
+
+# My Windows machine do not have Python installed, what should I do?
+
+- Compile `peekaboo.py` into an executable using [Pyinstaller](https://github.com/pyinstaller/pyinstaller)
+
+- PyInstaller is available on PyPI. You can install it through pip:
+
+<pre>
+pip install pyinstaller
+</pre>
 
 # Questions?
 
