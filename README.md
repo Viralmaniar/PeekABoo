@@ -15,9 +15,9 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 </pre>
 
 # How do I use this?
-- Press 1: This will print the list of supported vendors.
-- Press 2: Enter the vendor name and search for default credentials.
-- Press 3: Enter the vendor name and search for default credentials.
+- Press 1: This will set the PowerShell to unrestricted mode.
+- Press 2: It enables the `Remote Desktop` on the remote machine.
+- Press 3: It disables the `Remote Desktop` on the remote machine.
 - Press 4: To exit from the program.
 
 # Questions?
