@@ -25,8 +25,8 @@ Enabling remote desktop service on a targeted machine by pressing :
 
 # How do I use this?
 - Press 1: This will set the PowerShell to unrestricted mode.
-- Press 2: It enables the `Remote Desktop` on the remote machine and shows the RDP port (3389) status.
-- Press 3: It disables the `Remote Desktop` on the remote machine.
+- Press 2: It enables the `Remote Desktop` on the targeted machine and shows the RDP port (3389) status.
+- Press 3: It disables the `Remote Desktop` on the targeted machine.
 - Press 4: To exit from the program.
 
 # My Windows machine do not have Python installed, what should I do?
