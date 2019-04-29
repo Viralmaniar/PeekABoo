@@ -13,7 +13,7 @@ Targeted machine on an internal network has RDP disabled:
 
 ![image](https://user-images.githubusercontent.com/3501170/56864171-968fdc00-6a02-11e9-94cd-3baff007850b.png)
 
-Enabling remote desktop service on a targeted machine by pressing:
+Enabling remote desktop service on a targeted machine by pressing `option 2`:
 
 ![image](https://user-images.githubusercontent.com/3501170/56864277-e0c58d00-6a03-11e9-81b4-0b2d1de715be.png)
 
